@@ -1,5 +1,5 @@
 # PictureServer
-PictureServer 2 ip base Picture BoardCast on Python3.7 with PyGame
+PictureServer2 (PS2.py) is ip base Picture BoardCast on Python3.7 with PyGame
 ![PS2](https://github.com/SmazControl/PictureServer/blob/master/PictureServer.png?raw=true)
 
 # Usage
